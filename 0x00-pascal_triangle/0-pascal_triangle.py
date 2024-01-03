@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 def pascal_triangle(n: int):
+    """
+        Create rows for pascal triangle
+    """
     triangle = []
 
     if n <= 0:
