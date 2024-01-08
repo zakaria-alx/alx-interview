@@ -1,5 +1,10 @@
 #!/usr/bin/python3
-def pascal_triangle(n: int):
+"""
+0-pascal_triangle
+"""
+
+
+def pascal_triangle(n):
     """
         Create rows for pascal triangle
     """
